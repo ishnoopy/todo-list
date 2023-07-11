@@ -53,8 +53,8 @@ function App() {
 
         <div className='relative flex items-center flex-col w-[70vw] md:w-[50vw] lg:w-[40vw] h-[50vh] rounded-lg mx-auto shadow-lg bg-blue-100'>
           <div className="flex items-center">
-            <BeenhereIcon />
-            <h2 className='my-2'>To-Do</h2>          
+            <BeenhereIcon className='text-blue-600' />
+            <h2 className='my-2'>To-Do List</h2>          
           </div>
 
           <div className='overflow-y-auto h-[37vh] w-full'>
