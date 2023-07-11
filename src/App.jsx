@@ -51,7 +51,7 @@ function App() {
     <>
       <div className='prose prose-base mx-auto text-center max-w-7xl h-[90vh] flex items-center'>
 
-        <div className='relative flex items-center flex-col w-[70vw] md:w-[50vw] lg:w-[40vw] h-[50vh] rounded-lg mx-auto shadow-lg bg-blue-100'>
+        <div className='relative flex items-center flex-col w-[80vw] md:w-[50vw] lg:w-[40vw] h-[50vh] rounded-lg mx-auto shadow-lg bg-blue-100'>
           <div className="flex items-center">
             <BeenhereIcon className='text-blue-600' />
             <h2 className='my-2'>To-Do List</h2>          
