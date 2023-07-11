@@ -19,7 +19,7 @@ export default function taskCard(task, index, dispatch) {
     <>
       <div className={`rounded-lg border px-4 py-2 ${bgClass}`}>
         <div className="flex items-center">
-          <Avatar src="src/assets/stitch.jpg" sx={{ width: 24, height: 24 }} className='mr-2' />
+          <Avatar src="https://cdn.dribbble.com/users/113499/screenshots/17604183/media/493058b263759ea78b86ad4d79d19bbb.jpeg?compress=1&resize=400x300&vertical=center" sx={{ width: 24, height: 24 }} className='mr-2' />
           <div className='flex justify-between w-full'>
             <div className="flex flex-col text-start">
               <p className={`font-bold m-0 ${lineThroughClass}`}>{task.name}</p>              
